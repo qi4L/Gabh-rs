@@ -4,7 +4,11 @@
 + Halo's Gate 
 + Tartarus' Gate in Rust
 
-## References and Credits
+# follow-up plan
+
+More GABH implementations
+
+## References
 
 * https://github.com/am0nsec/HellsGate - [smelly__vx](https://twitter.com/smelly__vx) (@RtlMateusz) and Paul Laîné ([@am0nsec](https://twitter.com/am0nsec))
 * https://vxug.fakedoma.in/papers/VXUG/Exclusive/HellsGate.pdf
